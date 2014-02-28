@@ -1777,6 +1777,8 @@ var data = [
 	}
 ];
 
+$(document).ready(function(){
+
 for(var i in drug_list){
 	var drug = drug_list[i];
 
@@ -1872,4 +1874,6 @@ $('.expand_all').click(function(){
 
 $('.collapse_all').click(function(){
 	$('.drug_card_content').slideUp();
+});
+
 });
