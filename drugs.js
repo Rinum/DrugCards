@@ -1808,7 +1808,7 @@ counseling_points = "";
 drug_interactions = "";
 monitoring_parameters = "";
 for(var k in drug_list){
-	if(!drug_list[k] || k >= 40){
+	if(!drug_list[k] || k >= 60){
 		continue;
 	}
 
