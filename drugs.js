@@ -1815,10 +1815,10 @@ for(var k in drug_list){
 	var html = '<div class="drug_card">';
 
 	//Header
-	html += '<div style="background-color:#DBEBFF; border: #ccc solid 1px; margin:10px; margin-bottom: 0; padding: 20px;"><h2 style="margin:0; padding:0;">' + (parseInt(k) + 1) + '. ' + drug_list[k]["Generic Name"] + ' <a href="javascript: void(0);"  style="float:right;" class="toggle toggle_btn">+/-</a></h2></div>';
+	html += '<div style="background-color:#283A50; border: #17202B solid 1px; margin:10px; margin-bottom: 0; padding: 20px;"><h2 style="margin:0; padding:0;">' + (parseInt(k) + 1) + '. ' + drug_list[k]["Generic Name"] + ' <a href="javascript: void(0);"  style="float:right;" class="toggle toggle_btn">+/-</a></h2></div>';
 
 	//Card
-	html += '<div class="drug_card_content" style="display:none;background-color:#f7f7f7; border: #ccc solid 1px; border-top: none; margin:10px; margin-top: 0; padding: 20px;">';
+	html += '<div class="drug_card_content" style="display:none;background-color:rgb(56, 56, 56); border: #17202B solid 1px; border-top: none; margin:10px; margin-top: 0; padding: 20px;">';
 	html += '<div style="display:table;width:100%;">';
 
 	//Convert arrays
