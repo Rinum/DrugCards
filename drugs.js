@@ -1774,6 +1774,22 @@ var data = [
 		"Monitoring Parameters": "LFT, Drug Abuse",
 		"Counseling Points": "1. Advise patient to take prescribed dose immediately before going to bed 2. Caution patient not to take zolpidem unless planning to get 7 to 8 h of sleep before being active again",
 		"Notes/Mnemonics": null
+	},
+	{
+		"Generic Name": "Tenofovir",
+		"Brand Name": ["Viread"],
+		"Indications": ["Chronic Hepatitis B", "HIV infection"],
+		"Dosage Forms": ["Tablet", "Powder"],
+		"Dosing Regimen": ["300 mg by mouth daily"],
+		"Mechanism of Action": ["Tenofovir disoproxil fumarate, nucleotide reverse transcriptase inhibitor, is an analog of adenosine 5′-monophosphate; it interferes with the HIV viral RNA-dependent DNA polymerase, resulting in inhibition of viral replication."],
+		"Drug Interactions": ["Atazanavir - May increase the serum concentration of Tenofovir. Tenofovir may decrease the serum concentration of Atazanavir. Management: When combined use required, tenofovir 300 mg and atazanavir 300 mg should be used with ritonavir 100 mg (adult doses), all given in single daily dose with food. Atazanavir without ritonavir should not be used with tenofovir. Consider therapy modification"],
+		"Side Effects": ["Abdominal Paid", "Nausea"],
+		"Monitoring Parameters": ["Serum phosphorus", "Serum creatinine", "CBC", "LFTs"],
+		"Counseling Points": [
+			"Have patient report immediately signs of infection, dyspnea, severe dizziness or syncope, tachycardia, significant dyspepsia, inability to eat, severe myalgia, discolored urine, jaundice, or cold intolerance.", 
+			"Educate patients about signs of a significant reaction (eg, wheezing; chest tightness; fever; itching; bad cough; blue skin color; seizures; swelling of face, lips, tongue, or throat)."
+		],
+		"Notes/Mnemonics": null
 	}
 ];
 
