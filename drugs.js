@@ -1825,7 +1825,7 @@ drug_interactions = "";
 monitoring_parameters = "";
 for(var k in drug_list){
 	if(!drug_list[k] || k >= 100){
-		continue;
+		//continue;
 	}
 
 	var html = '<div class="drug_card">';
