@@ -1824,8 +1824,8 @@ counseling_points = "";
 drug_interactions = "";
 monitoring_parameters = "";
 for(var k in drug_list){
-	if(!drug_list[k] || k >= 100){
-		//continue;
+	if(!drug_list[k]){
+		continue;
 	}
 
 	var html = '<div class="drug_card">';
