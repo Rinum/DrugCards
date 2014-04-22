@@ -123,6 +123,38 @@ var drug_list = [
 
 var data = [
 	{
+		"Generic Name": "Lurasidone",
+		"Brand Name": ["Latuda"],
+		"Indications": ["Schizophrenia", "Bipolar Disorder"],
+		"Dosage Forms": ["Tablet"],
+		"Dosing Regimen": ["Schizophrenia: 160 mg by mouth daily","Bipolar: 120 mg by mouth daily"],
+		"Mechanism of Action": ["Lurasidone is an atypical antipsychotic belonging to the chemical class of benzoisothiazole derivatives. Its efficacy in schizophrenia and bipolar depression could be mediated through a combination of central dopamine type 2 (D2) and serotonin type 2 (5–HT2A) receptor antagonism."],
+		"Drug Interactions": ["Rifampin - May decrease the serum concentration of Lurasidone"],
+		"Side Effects": ["Abnormal Dreams","Decreased Appetite"],
+		"Monitoring Parameters": ['Blood Pressure','BMI'],
+		"Counseling Points": [
+			"Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that lurasidone therapy does not affect them adversely.",
+			"Educate patients, families, and caregivers about the risk of suicidal thoughts and behaviors with antidepressant treatment, as well as the risk of mania and hypomania. Advise them about monitoring for the emergence of suicidal thoughts and behavior, manic/hypomanic symptoms, irritability, agitation, or unusual changes in behavior. Instruct patients, families, and caregivers to report such symptoms to the health care provider."
+		],
+		"Notes/Mnemonics": null
+	},
+	{
+		"Generic Name": "Lisdexamfetamine",
+		"Brand Name": ["Vyvanse"],
+		"Indications": ["ADHD"],
+		"Dosage Forms": ["Capsule"],
+		"Dosing Regimen": ["30 mg by mouth daily"],
+		"Mechanism of Action": ["Lisdexamfetamine is a prodrug of dextroamphetamine. Amphetamines are noncatecholamine sympathomimetic amines with CNS stimulant activity. Amphetamines block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space. Lisdexamfetamine does not bind to the sites responsible for the reuptake of norepinephrine and dopamine in vitro."],
+		"Drug Interactions": ["Lithium - May diminish the stimulatory effect of Amphetamines. Monitor therapy"],
+		"Side Effects": ["Insomnia","Decreased Appetite"],
+		"Monitoring Parameters": ['Signs of abuse','Monitor heart rate and blood pressure.'],
+		"Counseling Points": [
+			"Advise patients that lisdexamfetamine is a controlled substance because it can be abused and lead to dependence and to not give the medication to anyone else.",
+			"Inform patients to take the drug in the morning because of the potential for insomnia."
+		],
+		"Notes/Mnemonics": null
+	},
+	{
 		"Generic Name": "Amoxicillin",
 		"Brand Name": ["Amoxil"],
 		"Indications": ["Ear, nose, and throat infections"],
